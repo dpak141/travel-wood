@@ -16,4 +16,4 @@ Live website demo: https://dpak141.github.io/travel-wood/
 
 ## Project Screenshots
 
-![App Screenshot](https://github.com/dpak141/travel-wood/blob/main/images/travelwood--screenshot.jpg?raw=true)
+![App Screenshot](https://github.com/dpak141/travel-wood/blob/main/images/travelwood--screenshot.png?raw=true)
